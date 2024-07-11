@@ -1,0 +1,10 @@
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample0.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample1.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample2.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample3.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample4.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample5.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample6.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample7.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample8.dt
+data_generate/instance/rl_8_10_100_0_1_0.00_even_model1_sample9.dt

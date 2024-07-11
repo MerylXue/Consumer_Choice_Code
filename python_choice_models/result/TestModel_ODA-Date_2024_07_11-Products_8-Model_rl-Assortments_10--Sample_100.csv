@@ -1,0 +1,15 @@
+avg,rmse_in,ae_in,mrmse_in,mae_in,rmse_out,ae_out,mrmse_out,mae_out,rmse_all,ae_all,mrmse_all,mae_all,AIC,BIC,chi2,time
+ODA: model_then_alpha,0.0966,0.3452,0.2323,0.1593,0.0980,0.3827,0.2471,0.1704,0.0979,0.3813,0.2466,0.1700,2253.5828,668.0482,0.6917,1307.7156
+
+all_var,rmse_in,ae_in,mrmse_in,mae_in,rmse_out,ae_out,mrmse_out,mae_out,rmse_all,ae_all,mrmse_all,mae_all,AIC,BIC,chi2,time
+ODA: model_then_alpha,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00
+
+avg_var,rmse_in,ae_in,mrmse_in,mae_in,rmse_out,ae_out,mrmse_out,mae_out,rmse_all,ae_all,mrmse_all,mae_all,AIC,BIC,chi2,time
+ODA: model_then_alpha,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+max,rmse_in,ae_in,mrmse_in,mae_in,rmse_out,ae_out,mrmse_out,mae_out,rmse_all,ae_all,mrmse_all,mae_all,AIC,BIC,chi2,time
+ODA: model_then_alpha,0.0966,0.3452,0.2323,0.1593,0.0980,0.3827,0.2471,0.1704,0.0979,0.3813,0.2466,0.1700,2253.5828,668.0482,0.6917,1307.7156
+
+min,rmse_in,ae_in,mrmse_in,mae_in,rmse_out,ae_out,mrmse_out,mae_out,rmse_all,ae_all,mrmse_all,mae_all,AIC,BIC,chi2,time
+ODA: model_then_alpha,0.0966,0.3452,0.2323,0.1593,0.0980,0.3827,0.2471,0.1704,0.0979,0.3813,0.2466,0.1700,2253.5828,668.0482,0.6917,1307.7156
+
